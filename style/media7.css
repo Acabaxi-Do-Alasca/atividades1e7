@@ -1,0 +1,31 @@
+@media (max-width: 771px) {
+    .vermelho_azul_preto {
+        display: block;
+        text-align: center;
+        font-size: 5vw;
+    }
+
+    .vermelho, .azul {
+        margin-bottom: 10%;
+    }
+
+    .texto {
+        font-size: 6vw;
+    }
+
+    .cabecario {
+        height: 30em;
+    }
+
+    .oi {
+        font-size: 7.8vw !important;
+        width: 60vw;
+        height: 30vw !important;
+    }
+}
+
+@media (min-width: 820px) {
+    .vermelho_azul_preto {
+        font-size: 3vw;
+    }
+}
